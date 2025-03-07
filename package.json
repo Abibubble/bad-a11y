@@ -1,0 +1,19 @@
+{
+  "name": "bad-a11y",
+  "version": "1.0.0",
+  "description": "This repo is specifically built to be an example of bad accessibility. Please do not use this code in any genuine live sites.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abibubble/bad-a11y.git"
+  },
+  "author": "Abi Harrison-Nye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abibubble/bad-a11y/issues"
+  },
+  "homepage": "https://github.com/Abibubble/bad-a11y#readme"
+}
