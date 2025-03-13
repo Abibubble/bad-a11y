@@ -4,9 +4,9 @@ NOTE: This repo is specifically built to be an example of bad accessibility. Ple
 
 The live page is available here - [bad-a11y site](https://abibubble.github.io/bad-a11y/)
 
-Use this page to practice your practical accessibility skills. Use a screen reader (Voiceover is pre-installed on Mac and iPhone, Narrator is pre-installed on Windows, and TalkBack is pre-installed on Android), navigate without using your mouse, and try out any other assistive technology that you'd like.
+Use this page to practice your practical accessibility skills. Use a screen reader (Voiceover is pre-installed on Mac and iPhone, Narrator is pre-installed on Windows, and TalkBack is pre-installed on Android), navigate without using your mouse, look at the hover functionality, and try out any other assistive technology that you'd like.
 
-First, look at the live site. Use assistive technology to work out any issues you can. Then
+First, look at the live site. Use assistive technology to work out any issues you can. Then continue to the sections below, depending on your role
 
 ## Anyone in Technology
 

@@ -3,7 +3,7 @@ This repo covers the following issues:
 - No lang
 - No zooming
 - Bad title
-- Bad font
+- Bad font - cursive & serif
 - Incorrect skip to main content link
 - Incorrect semantics
 - Links with no discernable text
@@ -19,10 +19,22 @@ This repo covers the following issues:
 - Button with an `<a>` inside
 - Reading age above 9
 - Huge chunk of text
-- No hover or focus styling
+- No hover styling
+- No focus styling
 - Bad colour contrast
 - Too small tap targets
 - Not enough space between tap targets
 - Removed focus on `<button>`
 - Too small text
 - Not responsive
+- Links not opening in other tabs (make more obvious)
+- Links not underlined
+- No favicon
+- Lists not aligned together - cognition
+- Incorrect tab order
+- Lack of keyboard navigation
+- Links not opening in other tabs
+
+- Bad aria
+- Uncontrolled motion
+- Missing form labels
