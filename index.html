@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html translate="no">
   <head>
     <meta charset="UTF-8" />
     <meta
@@ -21,9 +21,14 @@
     </div>
     <div id="main-content">
       <h1 class="heading">Our Phones</h1>
-      <div>
+      <div class="grid">
         <img class="phone-img" src="assets/images/phone1.jpg" alt="" />
         <img class="phone-img" src="assets/images/phone2.jpg" alt="An image" />
+        <img
+          class="phone-img"
+          src="assets/images/phone.gif"
+          alt="A phone gif"
+        />
       </div>
       <h1>Why buy your phone from us?</h1>
       <ol>
@@ -39,10 +44,18 @@
       </div>
       <div class="grid buttons">
         <button>
-          <a href="#">Buy now</a>
+          <a href="#" target="_blank">Buy now</a>
         </button>
         <button>
-          <a href="#">Buy later</a>
+          <a href="#" target="_blank">
+            Buy later
+            <img
+              src="/assets/images/new-tab.png"
+              alt=""
+              height="16px"
+              width="16px"
+            />
+          </a>
         </button>
       </div>
       <p>
@@ -62,11 +75,22 @@
         priorities, and budgetary constraints.
       </p>
     </div>
+    <h2>Send us a message</h2>
+    <form>
+      <input type="text" id="name" name="name" placeholder="Name" required />
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required />
+      <label for="phone">Phone</label>
+      <input type="tel" id="phone" name="phone" required />
+      <label for="message">Message</label>
+      <textarea id="message" name="message"></textarea>
+      <button type="submit">Submit</button>
+    </form>
     <footer>
       <div class="grid">
         <p>© 2025 giffgaff</p>
-        <a href="#" id="help"
-          >Help
+        <a href="#" id="help" target="_blank">
+          Help
           <img
             src="/assets/images/new-tab.png"
             alt="Opens in a new tab"

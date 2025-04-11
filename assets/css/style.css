@@ -46,8 +46,14 @@ a {
   font-size: 48px;
 }
 
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
 .phone-img {
-  width: 60%;
+  width: 100%;
 }
 
 ol,
@@ -69,6 +75,13 @@ ul {
 button {
   height: 24px;
   outline: none;
+}
+
+form {
+  display: grid;
+  grid-template-columns: 1fr;
+  width: 400px;
+  margin: 24px auto;
 }
 
 footer {
