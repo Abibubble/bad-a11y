@@ -1,6 +1,8 @@
 # bad-a11y
 
-NOTE: This repo is specifically built to be an example of bad accessibility. Please do not use this code in any genuine live sites. None of the links actually go anywhere, this is just an example page.
+NOTE: This repo is specifically built to be an example of bad accessibility. Please do not use this code in any genuine live sites.
+
+NOTE: None of the links actually go anywhere, as this is just an example page.
 
 The live page is available here - [bad-a11y site](https://abibubble.github.io/bad-a11y/)
 
@@ -8,7 +10,7 @@ To run this repo: `npm run dev`
 
 Use this page to practice your practical accessibility skills. Use a screen reader (Voiceover is pre-installed on Mac and iPhone, Narrator is pre-installed on Windows, and TalkBack is pre-installed on Android), navigate without using your mouse, look at the hover functionality, and try out any other assistive technology that you'd like.
 
-First, look at the live site. Spot as many issues as you can. Then continue to the sections below, depending on your role
+First, look at the live site. Spot as many issues as you can. Then continue to the sections below, depending on your role.
 
 ## Anyone in Technology
 
